@@ -1,0 +1,21 @@
+.dates {
+  display: flex;
+  justify-content: space-between;
+}
+
+#reservations {
+  display: flex;
+  position: fixed;
+  right: 0;
+  bottom: 0px;
+  /* top: 0; */
+}
+
+/* #reservations.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  background-color: yellow;
+  padding: 50px;
+  font-size: 20px;
+} */
